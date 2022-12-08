@@ -3,3 +3,4 @@ age: 24
 address: Ha Noi
 active: true
 chosen: true
+outlier: true
